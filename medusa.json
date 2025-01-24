@@ -19,9 +19,9 @@
     "constructorArgs": {},
     "deployerAddress": "0x7FA9385bE102ac3EAc297483Dd6233D62b3e1496",
     "senderAddresses": [
-      "0x10000",
-      "0x20000",
-      "0x30000"
+      "0x7E5F4552091A69125d5DfCb7b8C2659029395Bdf",
+      "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF",
+      "0x6813Eb9362372EEF6200f3b1dbC3f819671cBA69"
     ],
     "blockNumberDelayMax": 60480,
     "blockTimestampDelayMax": 604800,
